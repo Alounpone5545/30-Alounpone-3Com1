@@ -11,7 +11,8 @@
 ຮູບພາບ : <img width="551" height="405" alt="DDD0FB12-7172-4AFA-86D1-17891898F902" src="https://github.com/user-attachments/assets/9b438e6c-be55-4878-8ac9-194f86b3800e" />
 
 
-PINOUT Guide : 
+PINOUT Guide : ![](./image/2.png)
+
 
 
 
