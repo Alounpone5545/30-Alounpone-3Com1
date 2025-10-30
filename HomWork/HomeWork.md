@@ -7,10 +7,11 @@
 + Arduino Uno baord : ແມ່ນແຜງໄມໂຄຣຄອນໂທນເລີ (Microcontroller Board) ແບບ open-source ທີ່ສ້າງຂຶ້ນເທິງຊິບ **ATmega328P**.
 - ໜ້າທີ່ການໃຊ້ງານ : ເຮັດໜ້າທີ່ເປັນ "ສະໝອງ" ຂອງໂຄງການຂອງທ່ານ, ໄດ້ຮັບຄ່າປ້ອນເຂົ້າ ແລະ ຄວບຄຸມຄ່າອອກ (ເຊັນເຊີ, ມໍເຕີ, ໜ້າຈໍສະແດງຜົນ, ແລະ ອື່ນໆ).
 - ຕົວຢ່າງການນຳໃຊ້ : ການເຮັດໃຫ້ດອກໄຟ LED ກະພິບ ເພື່ອສະແດງໃຫ້ເຫັນການຄວບຄຸມ digital output ແບບງ່າຍດາຍ.
+  
 ຮູບພາບ : <img width="551" height="405" alt="DDD0FB12-7172-4AFA-86D1-17891898F902" src="https://github.com/user-attachments/assets/9b438e6c-be55-4878-8ac9-194f86b3800e" />
 
 
-PINOUT Guide : <img width="551" height="405" alt="DDD0FB12-7172-4AFA-86D1-17891898F902" src="https://github.com/user-attachments/assets/1bd8da5c-61cd-4806-a972-44144c8405e2" />
+PINOUT Guide : 
 
 
 
