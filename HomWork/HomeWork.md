@@ -10,7 +10,8 @@
 ຮູບພາບ : <img width="551" height="405" alt="DDD0FB12-7172-4AFA-86D1-17891898F902" src="https://github.com/user-attachments/assets/9b438e6c-be55-4878-8ac9-194f86b3800e" />
 
 
-PINOUT Guide : ![[3C587F52-A836-4B26-BF22-1FDD18823ABF.png]]
+PINOUT Guide : <img width="551" height="405" alt="DDD0FB12-7172-4AFA-86D1-17891898F902" src="https://github.com/user-attachments/assets/1bd8da5c-61cd-4806-a972-44144c8405e2" />
+
 
 
 - Breadboards : ແມ່ນແຜງພລາສຕິກທີ່ມີຮູ, ໃຊ້ສຳລັບການສ້າງແບບຈຳລອງ (prototype) ວົງຈອນເອເລັກໂຕຣນິກຊົ່ວຄາວ. ມັນຊ່ວຍໃຫ້ສາມາດເຊື່ອມຕໍ່ອຸປະກອນຕ່າງໆໄດ້ໂດຍບໍ່ຈຳເປັນຕ້ອງມີການເຊື່ອມ.
